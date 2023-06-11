@@ -1,1 +1,6 @@
-# utpl-nd-isd-paulocesarchaconbonifaz
+**Hoja de Vida**
+*Paulo Cesar Chacon Bonifaz*
+ingeniero de Marketing y negociacion comercial
+**Padre** Cesar Chacon
+**Madre** Lilia Bonifaz
+Maestria en Universidad Tecnica Particular de Loja
